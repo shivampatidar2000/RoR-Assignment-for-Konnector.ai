@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  score: 1
+  remark: MyString
+  user: one
+  batch: one
+
+two:
+  score: 1
+  remark: MyString
+  user: two
+  batch: two

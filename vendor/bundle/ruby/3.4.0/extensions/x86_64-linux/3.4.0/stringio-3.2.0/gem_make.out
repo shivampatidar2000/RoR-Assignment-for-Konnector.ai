@@ -1,0 +1,19 @@
+current directory: /home/rails/Documents/Inter/student/vendor/bundle/ruby/3.4.0/gems/stringio-3.2.0/ext/stringio
+/home/rails/.rvm/rubies/ruby-3.4.1/bin/ruby extconf.rb
+checking for rb_io_mode_t in ruby/io.h... no
+creating Makefile
+
+current directory: /home/rails/Documents/Inter/student/vendor/bundle/ruby/3.4.0/gems/stringio-3.2.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20251222-61185-iqkkgm sitelibdir\=./.gem.20251222-61185-iqkkgm clean
+
+current directory: /home/rails/Documents/Inter/student/vendor/bundle/ruby/3.4.0/gems/stringio-3.2.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20251222-61185-iqkkgm sitelibdir\=./.gem.20251222-61185-iqkkgm
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/rails/Documents/Inter/student/vendor/bundle/ruby/3.4.0/gems/stringio-3.2.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20251222-61185-iqkkgm sitelibdir\=./.gem.20251222-61185-iqkkgm install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20251222-61185-iqkkgm
+
+current directory: /home/rails/Documents/Inter/student/vendor/bundle/ruby/3.4.0/gems/stringio-3.2.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20251222-61185-iqkkgm sitelibdir\=./.gem.20251222-61185-iqkkgm clean
